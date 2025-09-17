@@ -3,6 +3,8 @@ Your personal tour guide to Kauai.
 
 This is the first version of the **Adventure Guide App**. This concept has limited functionality at the moment.  
 
+https://github.com/user-attachments/assets/e5252bbc-81c2-477b-902b-a1e50e5b7a20
+
 ## Features (v1)  
 Currently available functionality includes:  
 - 📍 **Browse Destinations** – view a personalized list of attractions.  
